@@ -1,14 +1,73 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+html {
+  scroll-behavior: smooth;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+body {
+  background: linear-gradient(to bottom, #FFF 0%, #FFF 50%, #F5DDC5 50%, #F5DDC5 100%);
+}
+
+h1, h2, h3, h4, h5, p, a {
+  font-family: 'Roboto Mono', sans-serif;
+  color: #25282A;
+}
+
+a:hover {
+  color: #F5DDC5;
+}
+
+.navbar {
+  background-color: #fff !important;
+  border-bottom: 1px solid #E4E4E2;
+}
+
+.navbar-brand h1 {
+  font-weight: bold;
+  letter-spacing: 10px;
+}
+
+.blog-item {
+  padding: 5px;
+}
+
+.blog-item--title:hover {
+  text-decoration: underline;
+  text-decoration-color: #F5DDC5;
+}
+
+.blog-item--link:hover {
+  text-decoration: none;
+}
+
+
+.links {
+  font-size: 32px;
+  padding-top: 8px;
+}
+
+.links a {
+  margin-right: 10px;
+}
+
+.section {
+  margin: 20px 0 0 0;
+}
+
+footer {
+  /* position: fixed; */
+  /* bottom: 0; */
+  background-color: #fff;
+  height: 40px;
+  width: 100%;
+}
+
+footer p {
+  padding-top: 16px;
+}
+
+.project-item {
+  margin-bottom: 20px;
+}
+
+#bio {
+  margin-bottom: 50px;
 }

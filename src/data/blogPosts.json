@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Hybrid Programming Languages — You Are Probably Using One",
+        "summary": "Personally, I am a fan of hybrid cars because I don’t feel like going 100% electric yet. Similarly, I am a fan of hybrid programming...",
+        "thumbnail": "https://cdn-images-1.medium.com/max/1600/1*dee6J2lKrxOyYKD9K_Nj7Q.jpeg",
+        "link": "https://medium.com/@imdanielsp/hybrid-programming-languages-you-are-probably-using-one-77011e12363a"
+    },
+    {
+        "title": "IoT — Generating Workload in CPU and Memory",
+        "summary": "Generating workload in processors and memory is a common practice in the IoT world. Here we covert one of many ways of accomplish this.",
+        "thumbnail": "https://cdn-images-1.medium.com/max/2400/1*l3ekQYf8F83MTolqodGA0Q.png",
+        "link": "https://medium.com/@imdanielsp/iot-generating-workload-in-cpu-and-memory-9b740581191c"
+    },
+    {
+        "title": "Let’s Talk Functional — A Problem Solving Approach",
+        "summary": "Let’s be honest, Functional programming is coming. If you are a Game of Thrones’ fan, you can say “winter is coming”. If you are not, just ignore that sentence...",
+        "thumbnail": "https://cdn-images-1.medium.com/max/1600/1*KdiDL1zKW3xD4Tb4suEgGg.jpeg",
+        "link": "https://medium.com/@imdanielsp/lets-talk-functional-a-problem-solving-approach-fb151bef24cd"
+    },
+    {
+        "title": "Opaque Objects in C — For the Caring",
+        "summary": "If you are wondering what the deal is with opaque objects and if you should care about it, the answer is: It depends on who you are. If you’re a programmer who doesn’t want to worry about the low-level (dirty) stuff, then you don’t need to care.",
+        "thumbnail": "https://cdn-images-1.medium.com/max/1600/1*yKbZj3nRtMMXN8avYCGzSw.jpeg",
+        "link": "https://medium.com/@imdanielsp/opaque-objects-in-c-for-the-caring-55fad1766cb2"
+    },
+    {
+        "title": "Go Programming Language Analysis — I",
+        "summary": "A programming language is, in reality, a set of simple or complicated instructions in which we can instruct computers how to accomplish a task.",
+        "thumbnail": "https://cdn-images-1.medium.com/max/1200/1*WnbWaa98jUn6TV6tWS8vPw.jpeg",
+        "link": "https://cdn-images-1.medium.com/max/1200/1*WnbWaa98jUn6TV6tWS8vPw.jpeg"
+    }
+]
