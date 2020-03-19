@@ -1,5 +1,11 @@
 [
     {
+        "title": "Productive Coding — Mouseless Visual Studio Code",
+        "summary": "After seeing a few geeks blow my mind using Emacs and Vi, I gave it a try. I failed and lost that battle. Join me to show you how VS Code helped me.",
+        "thumbnail": "https://miro.medium.com/max/1600/1*1bx-8ZLUpPLu9aipEMKCnQ.jpeg",
+        "link": "https://medium.com/@imdanielsp/productive-coding-mouseless-visual-studio-code-5978555d628c"
+    },
+    {
         "title": "Hybrid Programming Languages — You Are Probably Using One",
         "summary": "Personally, I am a fan of hybrid cars because I don’t feel like going 100% electric yet. Similarly, I am a fan of hybrid programming...",
         "thumbnail": "https://cdn-images-1.medium.com/max/1600/1*dee6J2lKrxOyYKD9K_Nj7Q.jpeg",
@@ -27,6 +33,6 @@
         "title": "Go Programming Language Analysis — I",
         "summary": "A programming language is, in reality, a set of simple or complicated instructions in which we can instruct computers how to accomplish a task.",
         "thumbnail": "https://cdn-images-1.medium.com/max/1200/1*WnbWaa98jUn6TV6tWS8vPw.jpeg",
-        "link": "https://cdn-images-1.medium.com/max/1200/1*WnbWaa98jUn6TV6tWS8vPw.jpeg"
+        "link": "https://medium.com/@imdanielsp/go-programming-language-analysis-i-989eab66a34a"
     }
 ]
