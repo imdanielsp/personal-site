@@ -13,12 +13,18 @@ class About extends Component {
                     </div>
                     <div className="col col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
                         <h2>Daniel Santos</h2>
-                        <h5>Software Engineer @ <a href="https://www.sonos.com">Sonos</a></h5>
+                        <h5>Software Engineer @ <a href="https://www.amazon.com">Amazon</a></h5>
                         <p>Experienced Software Engineer with a demonstrated history of working in the consumer electronics and medical devices industry. Skilled in C++, Python, JavaScript, IoT, Machine Learning, web and mobile development, and. Strong engineering professional with a Bachelor’s Degree focused in Computer Science from the University of Massachusetts Lowell. For more, check
                         my <a href="https://www.github.com/imdanielsp">GitHub</a> or <a href="https://www.linkedin.com/in/danielsantosio">LinkedIn</a>.
                         </p>
-
+                        <h5>Now</h5>
+                        <a href="https://www.amazon.com">
+                            <Icons width="120" marginTop="0" id="amazon" />
+                        </a>
                         <h5>Previously</h5>
+                        <a href="https://www.sonos.com">
+                            <Icons width="100" id="sonos" />
+                        </a>
                         <a href="https://www.ibm.com">
                             <Icons width="100" id="ibm" />
                         </a>
