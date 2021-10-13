@@ -38,11 +38,16 @@ class About extends Component {
               </u>
               .
             </p>
-            <h5>Now</h5>
+
+            <h4>
+              <b>Now</b>
+            </h4>
             <a href="https://www.rivian.com">
               <Icons width="200" height="100" marginTop="0" id="rivian" />
             </a>
-            <h5>Previously</h5>
+            <h4>
+              <b>Previously</b>
+            </h4>
             <a href="https://www.amazon.com">
               <Icons width="120" marginTop="0" id="amazon" />
             </a>
