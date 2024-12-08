@@ -13,20 +13,22 @@ class About extends Component {
               alt="Danile Santos"
               className="img-thumbnail"
             />
-            {/* <img src="/profile_pic_rounded.png" alt="Daniel Santos" className="img-thumbnail" style={{ border: 0, width: 300}}/> */}
           </div>
           <div className="col col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
             <h2>Daniel Santos</h2>
             <h5>
-              Software Engineer @ <a href="https://www.rivian.com">Rivian</a>
+              Staff Software Engineer @ <a href="https://rivianvw.tech/">Rivian & Volkswagen Group</a>
             </h5>
             <p>
-              Experienced Software Engineer with a demonstrated history of
-              working in the automotive and consumer electronics industry.
-              Skilled in C++, Python, JavaScript, IoT, Machine Learning, web and
-              mobile development. Strong engineering professional with a
-              Bachelor’s Degree focused in Computer Science from the University
-              of Massachusetts Lowell. For more, check my{" "}
+              Software Engineer at Rivian and VW Group, contributing to advanced
+              software solutions in the connected automotive domain. Skilled in
+              C++, Rust, Python, and IoT technologies, with hands-on experience in
+              implementing scalable systems.
+              <br/>
+              <br/>
+              Strong engineering professional with a Bachelor’s Degree focused in
+              Computer Science from the University of Massachusetts Lowell.
+              For more, check my{" "}
               <u>
                 <a href="https://www.github.com/imdanielsp">GitHub</a>
               </u>{" "}
@@ -42,12 +44,15 @@ class About extends Component {
             <h4>
               <b>Now</b>
             </h4>
-            <a href="https://www.rivian.com">
-              <Icons width="200" height="100" marginTop="0" id="rivian" />
+            <a href="https://rivianvw.tech">
+              <Icons width="400" height="100" marginTop="0" id="rivianvw" />
             </a>
             <h4>
               <b>Previously</b>
             </h4>
+            <a href="https://www.rivian.com">
+              <Icons width="200" height="100" marginTop="0" id="rivian" />
+            </a>
             <a href="https://www.amazon.com">
               <Icons width="120" marginTop="0" id="amazon" />
             </a>
@@ -70,7 +75,7 @@ class About extends Component {
             <h3>technologies</h3>
             <div id="technologies">
               {technologies.map((id) => {
-                return <Icons key={id} id={id} width="80" />;
+                return <Icons key={id} id={id} width="120" />;
               })}
             </div>
           </div>

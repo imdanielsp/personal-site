@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/imdanielsp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://imdanielsp.github.io
+  * I am imdanielsp (https://keybase.io/imdanielsp) on keybase.
+  * I have a public key ASBEsUIPJNynhCCdYPYr_24sgfdW4UsP8P8Hs9S4R-28Sgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012044b1420f24dca784209d60f62bff6e2c81f756e14b0ff0ff07b3d4b847edbc4a0a",
+      "host": "keybase.io",
+      "kid": "012044b1420f24dca784209d60f62bff6e2c81f756e14b0ff0ff07b3d4b847edbc4a0a",
+      "uid": "7d798d76c1c4eca6f135964735e89c19",
+      "username": "imdanielsp"
+    },
+    "merkle_root": {
+      "ctime": 1733690474,
+      "hash": "7f330bab99aaddd972b2cef854a3fba6fee73bbad8ed7aced70bf0c9a4d2628ab8cfe6894db7ef537c208e03b42baa71937411ae83f67d1e3abc4f8c0257c171",
+      "hash_meta": "0d6a85cf14eb7cd8e81539d78487a4ae9b118a417aa381b991bb9ceef30d86b6",
+      "seqno": 26361293
+    },
+    "service": {
+      "entropy": "gRmYnpe7wedSY/gcZrE85lAp",
+      "hostname": "imdanielsp.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.0"
+  },
+  "ctime": 1733690707,
+  "expire_in": 504576000,
+  "prev": "ae8db505d58cc35181afee987ce106819570ab18a595fc9a18cdac2e3bdf1a1c",
+  "seqno": 64,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRLFCDyTcp4QgnWD2K/9uLIH3VuFLD/D/B7PUuEftvEoKp3BheWxvYWTESpcCQMQgro21BdWMw1GBr+6YfOEGgZVwqxillfyaGM2sLjvfGhzEIGP2L1tdWpBns3xHRtAURnc/Fc+7q51oJNS+dajRhV+vAgHCo3NpZ8RAAaekd/M7KgH/1XCgPKd63eOR2miDK7ftef6EToRv+a4E9MQ5w21P5iXd8/+cbVWGsSs6mO/dSEpKmIKqedCBAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO0LeKeU4dYi7GnDN5/vMHd8U74WdS2VBiBpyePqCR1co3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/imdanielsp
+
+==================================================================
